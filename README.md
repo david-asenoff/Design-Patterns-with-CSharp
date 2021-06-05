@@ -1,6 +1,6 @@
 ## :eyeglasses: Repository Introduction
 **Design Patterns with C#** is a repository that intends to give a basic example for Creational, Structural and Behavioral Patterns using C# console applications.
-This repository is ispired by the [Refactoring.Guru](https://refactoring.guru/) of [Mr. Alexander Shvets](https://github.com/neochief).
+This repository is ispired by the web application named [Refactoring.Guru](https://refactoring.guru/) of [Mr. Alexander Shvets](https://github.com/neochief).
 ## :pencil2: About
 I. Creational
   1. Thread-safe Singleton 
